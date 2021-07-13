@@ -1,0 +1,338 @@
+[
+    {
+        "id": 5710,
+        "chapter_id": 5709,
+        "seq": 1,
+        "name": "Number Lines"
+    },
+    {
+        "id": 5720,
+        "chapter_id": 5709,
+        "seq": 3,
+        "name": "Making Ten to Add"
+    },
+    {
+        "id": 5741,
+        "chapter_id": 5709,
+        "seq": 2,
+        "name": "Counting On"
+    },
+    {
+        "id": 5753,
+        "chapter_id": 5709,
+        "seq": 4,
+        "name": "Adding One-Digit Numbers"
+    },
+    {
+        "id": 5769,
+        "chapter_id": 5709,
+        "seq": 5,
+        "name": "Adding Three or More One-Digit Numbers"
+    },
+    {
+        "id": 8544,
+        "chapter_id": 8542,
+        "seq": 1,
+        "name": "Counting Back"
+    },
+    {
+        "id": 8547,
+        "chapter_id": 8542,
+        "seq": 2,
+        "name": "Making Ten to Subtract"
+    },
+    {
+        "id": 8550,
+        "chapter_id": 8542,
+        "seq": 3,
+        "name": "Subtracting within Twenty"
+    },
+    {
+        "id": 8553,
+        "chapter_id": 8542,
+        "seq": 4,
+        "name": "Addition and Subtraction Expressions"
+    },
+    {
+        "id": 8556,
+        "chapter_id": 8542,
+        "seq": 5,
+        "name": "Relationship Between Addition and Subtraction"
+    },
+    {
+        "id": 8559,
+        "chapter_id": 8543,
+        "seq": 1,
+        "name": "Models of Numbers Less than 100"
+    },
+    {
+        "id": 8562,
+        "chapter_id": 8543,
+        "seq": 2,
+        "name": "Place Value of Numbers Less than 100"
+    },
+    {
+        "id": 8680,
+        "chapter_id": 8679,
+        "seq": 1,
+        "name": "Add One-Digit and Two-Digit Numbers - No Regrouping"
+    },
+    {
+        "id": 8683,
+        "chapter_id": 8543,
+        "seq": 3,
+        "name": "Reading and Writing Numbers Less Than 100"
+    },
+    {
+        "id": 8686,
+        "chapter_id": 8543,
+        "seq": 4,
+        "name": "Counting by Ones, Fives, and Tens within 100"
+    },
+    {
+        "id": 8689,
+        "chapter_id": 8543,
+        "seq": 5,
+        "name": "Even and Odd Numbers to 20"
+    },
+    {
+        "id": 8692,
+        "chapter_id": 8543,
+        "seq": 6,
+        "name": "Comparing Numbers Less Than 100"
+    },
+    {
+        "id": 8695,
+        "chapter_id": 8679,
+        "seq": 2,
+        "name": "Add One-Digit and Two-Digit Numbers - Regrouping"
+    },
+    {
+        "id": 8698,
+        "chapter_id": 8679,
+        "seq": 3,
+        "name": "Add Two-Digit Numbers - No Regrouping"
+    },
+    {
+        "id": 8701,
+        "chapter_id": 8679,
+        "seq": 4,
+        "name": "Add Two-Digit Numbers - Regrouping"
+    },
+    {
+        "id": 8705,
+        "chapter_id": 8704,
+        "seq": 1,
+        "name": "One- and Two-Digit Differences - No Regrouping"
+    },
+    {
+        "id": 8708,
+        "chapter_id": 8704,
+        "seq": 2,
+        "name": "One- and Two-Digit Differences - Regrouping"
+    },
+    {
+        "id": 8711,
+        "chapter_id": 8704,
+        "seq": 3,
+        "name": "Subtract Two-Digit Numbers - No Regrouping"
+    },
+    {
+        "id": 8714,
+        "chapter_id": 8704,
+        "seq": 4,
+        "name": "Subtract Two-Digit Numbers - Regrouping"
+    },
+    {
+        "id": 8922,
+        "chapter_id": 8919,
+        "seq": 1,
+        "name": "Models of Numbers Less Than 1,000"
+    },
+    {
+        "id": 8925,
+        "chapter_id": 8919,
+        "seq": 2,
+        "name": "Place Value of Numbers Less Than 1,000"
+    },
+    {
+        "id": 8928,
+        "chapter_id": 8919,
+        "seq": 3,
+        "name": "Reading and Writing Numbers Less Than 1,000"
+    },
+    {
+        "id": 8931,
+        "chapter_id": 8919,
+        "seq": 4,
+        "name": "Counting by Ones and Tens within 1,000"
+    },
+    {
+        "id": 8934,
+        "chapter_id": 8919,
+        "seq": 5,
+        "name": "Counting by Fives and Hundreds within 1,000"
+    },
+    {
+        "id": 8937,
+        "chapter_id": 8919,
+        "seq": 6,
+        "name": "Comparing Numbers Less Than 1,000"
+    },
+    {
+        "id": 8940,
+        "chapter_id": 8920,
+        "seq": 1,
+        "name": "Add Two-Digit Numbers"
+    },
+    {
+        "id": 8943,
+        "chapter_id": 8920,
+        "seq": 2,
+        "name": "Add Three-Digit and One-Digit Numbers"
+    },
+    {
+        "id": 8946,
+        "chapter_id": 8920,
+        "seq": 3,
+        "name": "Add Three-Digit and Two-Digit Numbers"
+    },
+    {
+        "id": 8949,
+        "chapter_id": 8920,
+        "seq": 4,
+        "name": "Add Two Three-Digit Numbers"
+    },
+    {
+        "id": 8952,
+        "chapter_id": 8920,
+        "seq": 5,
+        "name": "Horizontal Addition"
+    },
+    {
+        "id": 8955,
+        "chapter_id": 8921,
+        "seq": 1,
+        "name": "Subtract One-Digit Numbers from Three-Digit Numbers"
+    },
+    {
+        "id": 8958,
+        "chapter_id": 8921,
+        "seq": 2,
+        "name": "Subtract Two-Digit Numbers from Three-Digit Numbers"
+    },
+    {
+        "id": 8961,
+        "chapter_id": 8921,
+        "seq": 3,
+        "name": "Subtract Three-Digit Numbers"
+    },
+    {
+        "id": 8964,
+        "chapter_id": 8921,
+        "seq": 4,
+        "name": "Subtract Across Zeros"
+    },
+    {
+        "id": 8967,
+        "chapter_id": 8921,
+        "seq": 5,
+        "name": "Horizontal Subtraction and Relationships"
+    },
+    {
+        "id": 9166,
+        "chapter_id": 9165,
+        "seq": 1,
+        "name": "Customary Lengths of Measurement"
+    },
+    {
+        "id": 9169,
+        "chapter_id": 9165,
+        "seq": 2,
+        "name": "Metric Lengths of Measurement"
+    },
+    {
+        "id": 9172,
+        "chapter_id": 9165,
+        "seq": 3,
+        "name": "Comparing Lengths"
+    },
+    {
+        "id": 9253,
+        "chapter_id": 9251,
+        "seq": 1,
+        "name": "Tally Marks and Frequency Tables"
+    },
+    {
+        "id": 9256,
+        "chapter_id": 9251,
+        "seq": 2,
+        "name": "Pictographs"
+    },
+    {
+        "id": 9259,
+        "chapter_id": 9251,
+        "seq": 3,
+        "name": "Bar Graphs"
+    },
+    {
+        "id": 9262,
+        "chapter_id": 9251,
+        "seq": 4,
+        "name": "Line Plots"
+    },
+    {
+        "id": 9265,
+        "chapter_id": 9252,
+        "seq": 1,
+        "name": "Attributes of Two-Dimensional Figures"
+    },
+    {
+        "id": 9268,
+        "chapter_id": 9252,
+        "seq": 2,
+        "name": "Identifying Two-Dimensional Figures"
+    },
+    {
+        "id": 9271,
+        "chapter_id": 9252,
+        "seq": 3,
+        "name": "Three-Dimensional Figures"
+    },
+    {
+        "id": 9274,
+        "chapter_id": 9252,
+        "seq": 4,
+        "name": "Equal Groups"
+    },
+    {
+        "id": 9277,
+        "chapter_id": 9252,
+        "seq": 5,
+        "name": "Equal Parts"
+    },
+    {
+        "id": 9467,
+        "chapter_id": 9466,
+        "seq": 1,
+        "name": "Time on Clocks"
+    },
+    {
+        "id": 9470,
+        "chapter_id": 9466,
+        "seq": 2,
+        "name": "Using Words to Tell Time"
+    },
+    {
+        "id": 9473,
+        "chapter_id": 9466,
+        "seq": 3,
+        "name": "Coins"
+    },
+    {
+        "id": 9476,
+        "chapter_id": 9466,
+        "seq": 4,
+        "name": "Dollars and Cents"
+    }
+]
